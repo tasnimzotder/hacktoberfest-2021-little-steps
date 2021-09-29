@@ -16,6 +16,6 @@ jobs:
       - name: Check npm version
         run: npm -v
       - name: Install dependencies 🔨
-        run: ci install
+        run: npm ci
       - name: Build 🏗️
         run: npm run export
