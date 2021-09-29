@@ -1,3 +1,41 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+.md-post-body {
+  h1 {
+    @apply text-2xl my-6;
+  }
+
+  h2 {
+    @apply text-xl my-5;
+  }
+
+  h3 {
+    @apply text-xl my-4;
+  }
+
+  p {
+    @apply my-3;
+  }
+
+  ul {
+    @apply p-3 my-2;
+
+    li {
+      @apply px-5 list-disc;
+    }
+  }
+
+  ol {
+    @apply p-3 my-2;
+
+    li {
+      @apply px-5 list-decimal;
+    }
+  }
+
+  pre {
+    @apply m-3 mx-5 p-3 bg-gray-600 text-white rounded-md;
+  }
+}
