@@ -13,9 +13,10 @@
 
 The purpose of this repository is to help the users (developers) with Git, GitHub and Open-Source. Besides, this repository is designed around Climate-Change. Each post contains some messages on climate-change and some steps towards a better tomorrow.
 
-> Join Slack Channel 👉 [Slack](https://join.slack.com/t/hacktoberfest-x668034/shared_invite/zt-w6jfr6vr-K8uvU~mdWkHzD6bAy9vk9Q)
+## > Join Discord Server 👉 [Discord](https://discord.gg/f4sYVwS8C6)
 
-## Register here 👉 [Hacktoberfest Registration](https://hacktoberfest.digitalocean.com/register)
+### Learn more 👉 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+### Register here 👉 [Hacktoberfest Registration](https://hacktoberfest.digitalocean.com/register)
 
 ## Table of Contents 📑
 
@@ -53,7 +54,7 @@ The posts in this repository is referred as `Hackbar`s. This word came from two 
 username: <YOUR_USERNAME>
 title: <TITLE>
 date: <MONTH DATE, YEAR>
-cover_img: '/assets/md-images/<YOUR_IMAGE>'
+cover_img: '<YOUR_IMAGE_URL>'
 excerpt: <EXCERPT>
 ---
 
@@ -61,6 +62,8 @@ excerpt: <EXCERPT>
 
 <CONTENT>
 ```
+
+in case of `<YOUR_IMAGE_URL>` you can use `/assets/md-images/<YOUR_IMAGE>`
 
 ## How to create a Hackbar (Intermediates) 🏗️
 
@@ -78,6 +81,7 @@ To know about the process of PR creating check the post 👉 [Git &amp; GitHub �
 - pages
   - jx-posts (posts written in `.jsx`/`.tsx`)
 - md-posts (posts written in `.md`)
+- lib
 - public (public directory)
   - assets
     - md-images (images for posts in `.md`)
@@ -98,6 +102,7 @@ To know about the process of PR creating check the post 👉 [Git &amp; GitHub �
 ### Publishing
 
 - GitHub Pages
+- Vercel
 
 ## Hacktoberfest '21 Guideline
 
