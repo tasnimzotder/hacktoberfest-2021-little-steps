@@ -28,7 +28,7 @@ const Home: NextPage<{ mdPosts: Array<any> }> = ({ mdPosts }) => {
               'text-center my-4 text-lg bg-green-300 m-auto box-content px-4 py-2 cursor-default text-gray-900 rounded-lg'
             }
           >
-            Theme - Climate Change
+            Theme - Climate Change & World Hunger
           </button>
         </div>
 

@@ -7,12 +7,12 @@
 
 ![HF Banner](assets/banner08BLlogo.png)
 
-<p align="center">
-  <span>Theme: Climate Change</span>
-</p>
 
-The purpose of this repository is to help the users (developers) with Git, GitHub and Open-Source. Besides, this repository is designed around Climate-Change. Each post contains some messages on climate-change and some steps towards a better tomorrow.
+## Theme: Climate Change & World Hunger
 
+The purpose of this repository is to help the users (developers) with Git, GitHub and Open-Source. Besides, this repository is designed around Climate-Change. Each post contains some messages on climate-change and some steps towards a better tomorrow. 
+
+2021 is going to a bad year for world hunger. According to UN World Food Programme, nearly 957 million people across 93 countries don't have enough to eat.
 ## > Join Discord Server 👉 [Discord](https://discord.gg/f4sYVwS8C6)
 
 ### Learn more 👉 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
@@ -26,7 +26,8 @@ The purpose of this repository is to help the users (developers) with Git, GitHu
 - [Hackbar](#hackbar-🍫)
 - [How to create a hackbar - Beginners](#how-to-create-a-hackbar-beginners)
 - [How to create a Hackbar (Intermediates) 🏗️](#how-to-create-a-hackbar-intermediates-🏗️)
-- [How to create a Pull Request](#how-to-create-a-pull-request-pr)
+- [How to create a Pull Request - Using web editor](#how-to-create-a-pull-request-using-web-editor)
+- [How to create a Pull Request - Using local machine 💻](#how-to-create-a-pull-request-using-local-machine-💻)
 - [Hacktoberfest &#39;21 Guideline](#hacktoberfest-21-guideline)
 - [Maintainers](#maintainers)
 - [License](#license)
@@ -71,9 +72,86 @@ in case of `<YOUR_IMAGE_URL>` you can use `/assets/md-images/<YOUR_IMAGE>`
 
 🚧 UNDER CONSTRUCTION 🚧
 
-## How to create a Pull Request (PR)
+## How to create a Pull Request - using web editor
 
 To know about the process of PR creating check the post 👉 [Git &amp; GitHub — Open a Pull Request [As fast as possible]](https://tasnimzotder.com/blog/git-and-github-pull-request-as-fast-as-possible)
+
+### 1. Form the repository
+
+From the top-right corner of this repository, click on `Fork` to fork this repository to your account.
+
+### 2. Go to the forked repository in your account
+
+### 3. Open in the web editor
+
+Focusing on your browser tab, click `.` (dot) from your keyboard. This will open your repository in a web editor.
+
+### 4. Edit the repository
+
+Now, edit the repository or add contents according to the guideline. Make sure that the contents are authentic.
+
+### 5. Add and commit the changes
+
+In the web editor type `ctrl + shift + G`; this will open the Source Control. There, type your commit message on `MESSAGE` section and commit by clicking the `✔️` symbol above.
+
+### 6. Create a pull request
+
+From the Control Panel, click on the menu (`...`) and select `Pull Request > Create Pull Request`
+
+
+## How to create a Pull Request - Using local machine 💻
+
+### 1. Fork the repository
+
+From the top-right corner of this repository, click on `Fork` to fork this repository to your account.
+### 2. Copy the repository URL 
+
+```markdown
+https://github.com/<YOUR_USERNAME>/hacktoberfest-2021-little-steps.git
+```
+
+### 3. Paste the following code in the terminal - (change <YOUR_USERNAME> with your username)
+
+```bash
+git bash https://github.com/<YOUR_USERNAME>/hacktoberfest-2021-little-steps.git
+```
+
+### 4. Go to the project directory & open it in VS Code
+
+```bash
+cd hacktoberfest-2021-little-steps
+code .
+```
+
+this will open the repository in a VS Code window.
+
+### 5. Create a new branch
+
+```bash
+git checkout -b2 <BRANCH_NAME>
+```
+
+### 6. Edit the repository
+
+Now, edit the repository or add contents according to the guideline. Make sure that the contents are authentic.
+
+### 7. Add and commit the changes
+
+```bash
+git add .
+git commit -m "<COMMIT_MESSAGE>"
+```
+
+### 8. Push the commit(s)
+
+```bash
+git push origin -u <BRANCH_NAME>
+```
+
+### 9. Open a pull request
+
+Go to your repository on the web and go to your branch. Click on the `Contribute` from the top-right, and then click `Open pull request` to open a pull request.
+
 
 ## Project Structure (Important Ones)
 
