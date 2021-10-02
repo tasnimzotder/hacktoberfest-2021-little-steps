@@ -1,7 +1,7 @@
 ---
 username: 'pritambera2000'
 title: 'Climate change & World Hunger |Vital issues of The Century'
-date: '2nd October 2021'
+date: 'October 3, 2021'
 cover_img: 'https://assets.nrdc.org/sites/default/files/styles/header_background/public/personalaction-kidsclimatechange-1200x630.jpg?itok=JBsv97mu'
 excerpt: 'Climate change & Food hunger are the greatest problems of the century, human activities causing problems like pollution,global warming which are leading to climate change and upsetting the balance of the earth.'
 ---
