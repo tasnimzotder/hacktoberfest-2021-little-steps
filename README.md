@@ -5,7 +5,7 @@
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tasnimzotder/hacktoberfest-2021-little-steps?style=flat-square">
 </p>
 
-![HF Banner](assets/banner08BLlogo.png)
+![HF Banner](assets/banner_homepage.jpeg)
 
 
 ## Theme: Climate Change & World Hunger
