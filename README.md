@@ -47,7 +47,7 @@ The posts in this repository is referred as `Hackbar`s. This word came from two 
 ### Steps
 
 1. Go to the directory `/md-posts/`
-2. Create a folder `<YOUR_USERNAME>.md`
+2. Create a file `<YOUR_USERNAME>.md`
 3. Edit the file as the following template
 
 ```markdown
@@ -64,7 +64,9 @@ excerpt: <EXCERPT>
 <CONTENT>
 ```
 
-in case of `<YOUR_IMAGE_URL>` you can use `/assets/md-images/<YOUR_IMAGE>`
+- for local images, in case of `<YOUR_IMAGE_URL>` you can use `/assets/md-images/<YOUR_IMAGE>` in `<YOUR_USERNAME>.md` file.
+
+- the local images should be in `public/assets/md-images/` directory.
 
 ## How to create a Hackbar (Intermediates) 🏗️
 
@@ -76,7 +78,7 @@ in case of `<YOUR_IMAGE_URL>` you can use `/assets/md-images/<YOUR_IMAGE>`
 
 To know about the process of PR creating check the post 👉 [Git &amp; GitHub — Open a Pull Request [As fast as possible]](https://tasnimzotder.com/blog/git-and-github-pull-request-as-fast-as-possible)
 
-### 1. Form the repository
+### 1. Fork the repository
 
 From the top-right corner of this repository, click on `Fork` to fork this repository to your account.
 
