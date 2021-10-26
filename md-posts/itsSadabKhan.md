@@ -1,9 +1,9 @@
 ---
 username: <itsSadabKhan>
-title: <Human Impact on the Environment>
-date: <October 26, 2021>
-cover_img: '<https://img.theweek.in/content/dam/week/news/sci-tech/2019/June/environment-pollution-human-impact-ecosystem-plastic-junk-waste-shut.jpg>'
-excerpt: <In order to meet the basic needs of increases population, the present society has under taken a series of steps like rapid industrialization, unplanned urbanisation, deforestation, overexploitation of natural sources, etc>
+title: Human Impact on the Environment
+date: October 26, 2021
+cover_img: '<img src="https://img.theweek.in/content/dam/week/news/sci-tech/2019/June/environment-pollution-human-impact-ecosystem-plastic-junk-waste-shut.jpg" max-height="200px" max-width="300px">'
+excerpt: In order to meet the basic needs of increases population, the present society has under taken a series of steps like rapid industrialization, unplanned urbanisation, deforestation, overexploitation of natural sources, etc
 ---
 
 # < Some important impacts of human activities on environment are outlined below >
